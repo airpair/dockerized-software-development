@@ -84,7 +84,7 @@ $ curl http://192.168.59.103:8000/realusers
 We are ready to go and can start developing our front end that consumes our API.
 
 ##Developing the front end
-In this section we will start developing a very simple front end using some components of [Angular Material Design](https://material.angularjs.org). We will consuming the API of our started docker container. This is going to be so simple that we won't even give it a name.
+In this section we will start developing a very simple front end using some components of [Angular Material Design](https://material.angularjs.org). We will be consuming the API of our started docker container. This is going to be so simple that we won't even give it a name.
 
 Create a directory for the front end files and in it a `index.html` that can look like this.
 ```markup,linenums=true
